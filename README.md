@@ -39,6 +39,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 ### Videos
 
 - **Introduction to Artifical Life Concepts** (2013), Dave Ackley [[video]](https://www.youtube.com/watch?v=YJRRu4dJnTI)
+- **The T2 Tile Project** [[playlist]](https://www.youtube.com/c/TheT2TileProject/videos)
 
 ## Artifical Intelligence
 
